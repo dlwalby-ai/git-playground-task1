@@ -1,0 +1,9 @@
+{
+  "name": "notes-cli",
+  "version": "1.0.0",
+  "description": "A tiny command-line notes tool — practice repo for the Claude Code course Git unit.",
+  "bin": { "notes": "notes.js" },
+  "main": "notes.js",
+  "scripts": { "start": "node notes.js" },
+  "license": "MIT"
+}
